@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 82bfe5013cea31948885d969fc530a44
+  productGUID: 97b568fe24865b74eb4c1cb48630eeb9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: ComputerGames
+  productName: RoadRush
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: ComputerGames
+  metroPackageName: RoadRush
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: ComputerGames
+  metroApplicationDescription: RoadRush
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -923,11 +923,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 6d79c4fe-1ab0-40ec-86ed-859bd7ca3578
+  cloudProjectId: ca7f5f05-8209-422c-816f-1363ab887976
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ComputerGames 2026-07-12_22-07-36
-  organizationId: unity_3d20fd963b000d682417
+  projectName: RoadRush
+  organizationId: tugeelaura1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
